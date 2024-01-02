@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="capa.jpg" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Bem vindo ao meu perfil! <br><br> Estudante de Análise e Desenvolvimento de Sistemas em busca de estágio em desenvolvimento front-end para aplicar habilidades acadêmicas e promover o enriquecimento profissional.</p>&nbsp;
+<p align="center">Bem vindo ao meu perfil! <br><br> Estudante de Análise e Desenvolvimento de Sistemas em busca de estágio em desenvolvimento para aplicar habilidades acadêmicas e promover o enriquecimento profissional.</p>&nbsp;
 
 
 ## Aprendendo
